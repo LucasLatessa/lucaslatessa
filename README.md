@@ -86,7 +86,11 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/></a>
-
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Figma-222?style=plastic&logo=figma"/></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white"/></a>
+ 
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
